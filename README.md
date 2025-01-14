@@ -1,2 +1,2 @@
 # LearnJavaScript
-This is a repo with folders of all the new stuff I am learning from JavaScript and the Udemy course. 
+This is a repo with folder from JavaScrip lessons. 
